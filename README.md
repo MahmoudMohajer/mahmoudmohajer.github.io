@@ -1,3 +1,5 @@
+<img src="assets/img/image.jpeg" style="border-radius: 50%; width: 150px; height: 150px;"/>
+
 # Machine Learning Engineer
 
 #### Technical Skills: Python, Pytorch, Data Analysis, SQL, FastAPI 
