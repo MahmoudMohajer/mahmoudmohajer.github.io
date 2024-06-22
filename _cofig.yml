@@ -1,2 +1,5 @@
 title: Mahmoud Mohajer
 logo: /assets/img/image.jpeg
+
+show_downloads: true
+theme: jekyll-theme-minimal
